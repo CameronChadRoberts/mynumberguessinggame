@@ -12,6 +12,7 @@ layout: home
 - Inserting Source Code
 - How to Play
 - Code
+- FAQ
 - License
 ## _Introduction_
 
@@ -183,6 +184,19 @@ import javax.swing.*;
                 return "Your guess is incorrect\nTry Number: " + count;
         }
     ```
+## FAQ
+#### Do I need a IDE/Compiler to run this game?
+Yes! You will need to have a compiler that can run java such as [Eclipse](https://www.eclipse.org/downloads/packages/release/kepler/sr1/eclipse-ide-java-developers).
+
+#### Where can I find the source code for this game?
+You can find the original source code from the page [>hackr.io](https://hackr.io/blog/java-projects).
+
+#### Do I need to know Java prior to playing this game?
+No, you should be able to follow this documentation and play this game without any background in java.
+
+#### Troubleshooting/Questions
+If you run into problems you can always email me at:
+robertscc1@appstate.edu
 
 ## License
 
