@@ -1,0 +1,9 @@
+# Site settings
+title: NumberGuessingGame
+author:
+  name: Cameron Roberts
+  email: robertscc1@appstate.edu
+description: "Great site about Jekyll on GH-Pages."
+
+# Build settings
+remote_theme: jekyll/minima
