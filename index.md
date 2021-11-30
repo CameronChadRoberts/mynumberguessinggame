@@ -86,7 +86,8 @@ public class GuessingGame {
         int userAnswer = 0;
         System.out.println("The correct guess would be " + computerNumber);
         int count = 1;
-
+```        
+```
         while (userAnswer != computerNumber)
         {
             String response = JOptionPane.showInputDialog(null,
@@ -116,6 +117,7 @@ public class GuessingGame {
     }
 }
 ```
+
 
 ## How to Play
 1. After you copy the source code into your java project you need to select the run option.
