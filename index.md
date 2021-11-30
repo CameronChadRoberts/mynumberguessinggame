@@ -75,6 +75,7 @@ _The website that the source code is obtained from did not provide a .zip file f
 
 - Once you have your project set up in java you need to go and copy the source code from [>hackr.io](https://hackr.io/blog/java-projects) 
 - Your Code should look identical to the example code below.
+
 ```
 package numberGuessingGame;
 import javax.swing.*;
