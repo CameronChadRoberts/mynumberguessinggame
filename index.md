@@ -116,8 +116,8 @@ public class GuessingGame {
     }
 }
 ```
-## How to Play
 
+## How to Play
 1. After you copy the source code into your java project you need to select the run option.
 ![](https://cdn.discordapp.com/attachments/833448220620488795/911059659505401876/dondond.png)
 2. A window will appear asking you to choose a number between 1 and 100. 
