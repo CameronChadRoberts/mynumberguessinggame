@@ -13,6 +13,7 @@ layout: home
 - How to Play
 - Code
 - FAQ
+- Contribution
 - License
 ## _Introduction_
 
@@ -201,6 +202,8 @@ No, you should be able to follow this documentation and play this game without a
 If you run into problems you can always email me at:
 robertscc1@appstate.edu
 
+## Contribution
+If you would like to contribute to the project, then contact me at robertscc1@appstate.edu. 
 ## License
 
 This project is distributed by an [MIT license](https://opensource.org/licenses/MIT).
